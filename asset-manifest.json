@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WordWizard/static/css/main.e6c13ad2.css",
+    "main.js": "/WordWizard/static/js/main.d5f8e35e.js",
+    "static/js/787.42b46dae.chunk.js": "/WordWizard/static/js/787.42b46dae.chunk.js",
+    "index.html": "/WordWizard/index.html",
+    "main.e6c13ad2.css.map": "/WordWizard/static/css/main.e6c13ad2.css.map",
+    "main.d5f8e35e.js.map": "/WordWizard/static/js/main.d5f8e35e.js.map",
+    "787.42b46dae.chunk.js.map": "/WordWizard/static/js/787.42b46dae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d5f8e35e.js"
+  ]
+}
